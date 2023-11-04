@@ -1,5 +1,5 @@
 ---
-title: Emoji Support
+title: Huntress CTF Writeup
 date: 2023-02-01
 author: Hugo Authors
 description: Guide to emoji usage in Hugo
